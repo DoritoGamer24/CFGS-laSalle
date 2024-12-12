@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <animal tipo="mamifer">
+        <nom>Luna</nom>
+        <tipo>mamífer</tipo>
+        <edat>5</edat>
+        <sexe>femella</sexe>
+        <vacunes>
+            <vacuna>
+                <nomVac>Ràbia</nomVac>
+                <dataApl>2023-05-15</dataApl>
+            </vacuna>
+            <vacuna>
+                <nomVac>Parvovirus</nomVac>
+                <dataApl>2023-08-10</dataApl>
+            </vacuna>
+            <vacuna>
+                <nomVac>Distemper</nomVac>
+                <dataApl>2023-09-20</dataApl>
+            </vacuna>
+        </vacunes>
+    </animal>
+
+    <animal tipo="reptil">
+        <nom>Max</nom>
+        <tipo>reptil</tipo>
+        <edat>3</edat>
+        <sexe>mascle</sexe>
+        <vacunes>
+            <vacuna>
+                <nomVac>Salmonel·la</nomVac>
+                <dataApl>2023-02-12</dataApl>
+            </vacuna>
+            <vacuna>
+                <nomVac>Botulisme</nomVac>
+                <dataApl>2023-04-25</dataApl>
+            </vacuna>
+            <vacuna>
+                <nomVac>Tetano</nomVac>
+                <dataApl>2023-06-30</dataApl>
+            </vacuna>
+        </vacunes>
+    </animal>
+
+    <animal tipo="mamifer">
+        <nom>Rocky</nom>
+        <tipo>mamífer</tipo>
+        <edat>2</edat>
+        <sexe>mascle</sexe>
+        <vacunes>
+            <vacuna>
+                <nomVac>Ràbia</nomVac>
+                <dataApl>2022-11-10</dataApl>
+            </vacuna>
+            <vacuna>
+                <nomVac>Leptospirosi</nomVac>
+                <dataApl>2023-01-12</dataApl>
+            </vacuna>
+            <vacuna>
+                <nomVac>Distemper</nomVac>
+                <dataApl>2023-04-05</dataApl>
+            </vacuna>
+        </vacunes>
+    </animal>
+
+    <animal tipo="ocell">
+        <nom>Pol</nom>
+        <tipo>ocell</tipo>
+        <edat>1</edat>
+        <sexe>mascle</sexe>
+        <vacunes>
+            <vacuna>
+                <nomVac>Psitacosi</nomVac>
+                <dataApl>2023-06-14</dataApl>
+            </vacuna>
+            <vacuna>
+                <nomVac>Newcastle</nomVac>
+                <dataApl>2023-07-01</dataApl>
+            </vacuna>
+            <vacuna>
+                <nomVac>Bronquitis</nomVac>
+                <dataApl>2023-08-10</dataApl>
+            </vacuna>
+        </vacunes>
+    </animal>
+
+    <animal tipo="mamifer">
+        <nom>Bella</nom>
+        <tipo>mamífer</tipo>
+        <edat>6</edat>
+        <sexe>femella</sexe>
+        <vacunes>
+            <vacuna>
+                <nomVac>Ràbia</nomVac>
+                <dataApl>2023-03-25</dataApl>
+            </vacuna>
+            <vacuna>
+                <nomVac>Parvovirus</nomVac>
+                <dataApl>2023-05-19</dataApl>
+            </vacuna>
+            <vacuna>
+                <nomVac>Hepatitis</nomVac>
+                <dataApl>2023-07-07</dataApl>
+            </vacuna>
+        </vacunes>
+    </animal>
+
+    <animal tipo="peix">
+        <nom>Nemo</nom>
+        <tipo>peix</tipo>
+        <edat>1</edat>
+        <sexe>mascle</sexe>
+        <vacunes>
+            <vacuna>
+                <nomVac>Vibriosi</nomVac>
+                <dataApl>2023-04-18</dataApl>
+            </vacuna>
+            <vacuna>
+                <nomVac>Malaltia blanc</nomVac>
+                <dataApl>2023-06-20</dataApl>
+            </vacuna>
+            <vacuna>
+                <nomVac>Columnaris</nomVac>
+                <dataApl>2023-08-12</dataApl>
+            </vacuna>
+        </vacunes>
+    </animal>
+
+    <animal tipo="mamifer">
+        <nom>Charlie</nom>
+        <tipo>mamífer</tipo>
+        <edat>4</edat>
+        <sexe>mascle</sexe>
+        <vacunes>
+            <vacuna>
+                <nomVac>Ràbia</nomVac>
+                <dataApl>2022-10-05</dataApl>
+            </vacuna>
+            <vacuna>
+                <nomVac>Leptospirosi</nomVac>
+                <dataApl>2023-01-20</dataApl>
+            </vacuna>
+            <vacuna>
+                <nomVac>Distemper</nomVac>
+                <dataApl>2023-05-10</dataApl>
+            </vacuna>
+        </vacunes>
+    </animal>
+
+    <animal tipo="ocell">
+        <nom>Tweety</nom>
+        <tipo>ocell</tipo>
+        <edat>2</edat>
+        <sexe>femella</sexe>
+        <vacunes>
+            <vacuna>
+                <nomVac>Psitacosi</nomVac>
+                <dataApl>2023-02-28</dataApl>
+            </vacuna>
+            <vacuna>
+                <nomVac>Newcastle</nomVac>
+                <dataApl>2023-04-10</dataApl>
+            </vacuna>
+            <vacuna>
+                <nomVac>Bronquitis</nomVac>
+                <dataApl>2023-06-18</dataApl>
+            </vacuna>
+        </vacunes>
+    </animal>
+
+    <animal tipo="mamifer">
+        <nom>Daisy</nom>
+        <tipo>mamífer</tipo>
+        <edat>7</edat>
+        <sexe>femella</sexe>
+        <vacunes>
+            <vacuna>
+                <nomVac>Ràbia</nomVac>
+                <dataApl>2022-12-15</dataApl>
+            </vacuna>
+            <vacuna>
+                <nomVac>Parvovirus</nomVac>
+                <dataApl>2023-03-10</dataApl>
+            </vacuna>
+            <vacuna>
+                <nomVac>Hepatitis</nomVac>
+                <dataApl>2023-07-12</dataApl>
+            </vacuna>
+        </vacunes>
+    </animal>
+
+    <animal tipo="mamifer">
+        <nom>Buddy</nom>
+        <tipo>mamífer</tipo>
+        <edat>5</edat>
+        <sexe>mascle</sexe>
+        <vacunes>
+            <vacuna>
+                <nomVac>Ràbia</nomVac>
+                <dataApl>2022-09-17</dataApl>
+            </vacuna>
+            <vacuna>
+                <nomVac>Leptospirosi</nomVac>
+                <dataApl>2023-02-22</dataApl>
+            </vacuna>
+            <vacuna>
+                <nomVac>Distemper</nomVac>
+                <dataApl>2023-05-25</dataApl>
+            </vacuna>
+        </vacunes>
+    </animal>
+
+    <animal tipo="mamifer">
+        <nom>Simba</nom>
+        <tipo>mamífer</tipo>
+        <edat>3</edat>
+        <sexe>mascle</sexe>
+        <vacunes>
+            <vacuna>
+                <nomVac>Ràbia</nomVac>
+                <dataApl>2022-10-23</dataApl>
+            </vacuna>
+            <vacuna>
+                <nomVac>Leptospirosi</nomVac>
+                <dataApl>2023-03-15</dataApl>
+            </vacuna>
+            <vacuna>
+                <nomVac>Distemper</nomVac>
+                <dataApl>2023-06-30</dataApl>
+            </vacuna>
+        </vacunes>
+    </animal>
+
+    <animal tipo="peix">
+        <nom>Dory</nom>
+        <tipo>peix</tipo>
+        <edat>1</edat>
+        <sexe>femella</sexe>
+        <vacunes>
+            <vacuna>
+                <nomVac>Vibriosi</nomVac>
+                <dataApl>2023-04-10</dataApl>
+            </vacuna>
+            <vacuna>
+                <nomVac>Malaltia blanc</nomVac>
+                <dataApl>2023-06-08</dataApl>
+            </vacuna>
+            <vacuna>
+                <nomVac>Columnaris</nomVac>
+                <dataApl>2023-08-18</dataApl>
+            </vacuna>
+        </vacunes>
+    </animal>
+</root>

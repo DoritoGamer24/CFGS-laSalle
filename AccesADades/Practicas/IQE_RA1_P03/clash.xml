@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+--><root>
+    <!-- Jugador 1 -->
+    <Jugador>
+        <Nom>Carles_Pro</Nom>
+        <Nivell>13</Nivell>
+        <Copes>3800</Copes>
+        <Oro>1500</Oro>
+        <Gemes>230</Gemes>
+        <Estrelles>45</Estrelles>
+        <Partides>
+            <Partida>
+                <Data>04-11-2024</Data>
+                <Resultat>2-1</Resultat>
+                <Durada>4:35</Durada>
+                <Tipus>Torneig</Tipus>
+            </Partida>
+            <Partida>
+                <Data>03-11-2024</Data>
+                <Resultat>1-2</Resultat>
+                <Durada>4:45</Durada>
+                <Tipus>Amistós</Tipus>
+            </Partida>
+            <Partida>
+                <Data>01-11-2024</Data>
+                <Resultat>3-1</Resultat>
+                <Durada>2:50</Durada>
+                <Tipus>Amistós</Tipus>
+            </Partida>
+        </Partides>
+    </Jugador>
+
+    <!-- Jugador 2 -->
+    <Jugador>
+        <Nom>GamerKing_77</Nom>
+        <Nivell>11</Nivell>
+        <Copes>2900</Copes>
+        <Oro>1200</Oro>
+        <Gemes>180</Gemes>
+        <Estrelles>38</Estrelles>
+        <Partides>
+            <Partida>
+                <Data>05-11-2024</Data>
+                <Resultat>2-3</Resultat>
+                <Durada>3:56</Durada>
+                <Tipus>Lliga</Tipus>
+            </Partida>
+            <Partida>
+                <Data>03-11-2024</Data>
+                <Resultat>2-1</Resultat>
+                <Durada>4:45</Durada>
+                <Tipus>Lliga</Tipus>
+            </Partida>
+            <Partida>
+                <Data>01-11-2024</Data>
+                <Resultat>0-2</Resultat>
+                <Durada>3:00</Durada>
+                <Tipus>Torneig</Tipus>
+            </Partida>
+        </Partides>
+    </Jugador>
+
+    <!-- Jugador 3 -->
+    <Jugador>
+        <Nom>Pepe_LocoGaming</Nom>
+        <Nivell>50</Nivell>
+        <Copes>9326</Copes>
+        <Oro>846737</Oro>
+        <Gemes>2430</Gemes>
+        <Estrelles>333</Estrelles>
+        <Partides>
+            <Partida>
+                <Data>06-11-2024</Data>
+                <Resultat>3-0</Resultat>
+                <Durada>0:16</Durada>
+                <Tipus>Torneig</Tipus>
+            </Partida>
+            <Partida>
+                <Data>02-11-2024</Data>
+                <Resultat>3-2</Resultat>
+                <Durada>3:45</Durada>
+                <Tipus>Lliga</Tipus>
+            </Partida>
+            <Partida>
+                <Data>30-10-2024</Data>
+                <Resultat>3-1</Resultat>
+                <Durada>2:24</Durada>
+                <Tipus>Torneig</Tipus>
+            </Partida>
+        </Partides>
+    </Jugador>
+    <Jugador>
+        <Nom>JuanitoCocunero</Nom>
+        <Nivell>3</Nivell>
+        <Copes>3</Copes>
+        <Oro>1136</Oro>
+        <Gemes>10</Gemes>
+        <Estrelles>0</Estrelles>
+        <Partides>
+            <Partida>
+                <Data>24-11-2024</Data>
+                <Resultat>3-1</Resultat>
+                <Durada>2:24</Durada>
+                <Resultat>Lliga</Resultat>
+            </Partida>
+            <Partida>
+                <Data>26-11-2024</Data>
+                <Resultat>2-1</Resultat>
+                <Durada>3:00</Durada>
+                <Resultat>Torneig</Resultat>
+            </Partida>
+            <Partida>
+                <Data>26-11-2024</Data>
+                <Resultat>2-0</Resultat>
+                <Durada>3:00</Durada>
+                <Resultat>Lliga</Resultat>
+            </Partida>
+        </Partides>
+    </Jugador>
+</root>
