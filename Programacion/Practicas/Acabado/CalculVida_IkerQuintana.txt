@@ -1,0 +1,19 @@
+Inici
+
+//Declarar variables
+Declarar vida del jugador com a nombre real (vida)
+Declarar quants nivells ha augmentat com a nombre real (nivells)
+
+//Llegir els nivells que han augmentat
+Escriure "Quants nivells ha augmentat el personatge?"
+Llegir nivells
+
+//Bucle per a calcular la vida augmentada per cada nivell
+Comparar nivell si és igual a 0
+vida = vida*1.10
+nivells = nivells - 1
+
+//Mostrar resultat
+Escriure "La teva vida ha augmentat a... ", vida
+
+Finalitzar

@@ -1,0 +1,26 @@
+﻿  pch.cpp
+  dllmain.cpp
+  MathLibrary.cpp
+  Generando código...
+E:\AluCiclesGS1\Assignaturas\Programacion\Practicas\DDL_MathLibrary_IQE\DDL_MathLibrary_IQE\MathLibrary.cpp(15,6): warning C4273: 'fibonacci_init': vinculación de DLL incoherente
+  (compilando archivo de origen "/MathLibrary.cpp")
+      E:\AluCiclesGS1\Assignaturas\Programacion\Practicas\DDL_MathLibrary_IQE\DDL_MathLibrary_IQE\MathLibrary.h(23,33):
+      vea la definición anterior de “fibonacci_init”
+  
+E:\AluCiclesGS1\Assignaturas\Programacion\Practicas\DDL_MathLibrary_IQE\DDL_MathLibrary_IQE\MathLibrary.cpp(26,6): warning C4273: 'fibonacci_next': vinculación de DLL incoherente
+  (compilando archivo de origen "/MathLibrary.cpp")
+      E:\AluCiclesGS1\Assignaturas\Programacion\Practicas\DDL_MathLibrary_IQE\DDL_MathLibrary_IQE\MathLibrary.h(29,33):
+      vea la definición anterior de “fibonacci_next”
+  
+E:\AluCiclesGS1\Assignaturas\Programacion\Practicas\DDL_MathLibrary_IQE\DDL_MathLibrary_IQE\MathLibrary.cpp(47,20): warning C4273: 'fibonacci_current': vinculación de DLL incoherente
+  (compilando archivo de origen "/MathLibrary.cpp")
+      E:\AluCiclesGS1\Assignaturas\Programacion\Practicas\DDL_MathLibrary_IQE\DDL_MathLibrary_IQE\MathLibrary.h(32,47):
+      vea la definición anterior de “fibonacci_current”
+  
+E:\AluCiclesGS1\Assignaturas\Programacion\Practicas\DDL_MathLibrary_IQE\DDL_MathLibrary_IQE\MathLibrary.cpp(53,10): warning C4273: 'fibonacci_index': vinculación de DLL incoherente
+  (compilando archivo de origen "/MathLibrary.cpp")
+      E:\AluCiclesGS1\Assignaturas\Programacion\Practicas\DDL_MathLibrary_IQE\DDL_MathLibrary_IQE\MathLibrary.h(35,37):
+      vea la definición anterior de “fibonacci_index”
+  
+     Creando biblioteca E:\AluCiclesGS1\Assignaturas\Programacion\Practicas\DDL_MathLibrary_IQE\x64\Debug\DDL_MathLibrary_IQE.lib y objeto E:\AluCiclesGS1\Assignaturas\Programacion\Practicas\DDL_MathLibrary_IQE\x64\Debug\DDL_MathLibrary_IQE.exp
+  DDL_MathLibrary_IQE.vcxproj -> E:\AluCiclesGS1\Assignaturas\Programacion\Practicas\DDL_MathLibrary_IQE\x64\Debug\DDL_MathLibrary_IQE.dll

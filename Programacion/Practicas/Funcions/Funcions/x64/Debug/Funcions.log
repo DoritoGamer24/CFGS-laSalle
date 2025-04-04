@@ -1,0 +1,5 @@
+﻿  Funcions.cpp
+E:\AluCiclesGS1\Assignaturas\Programacion\Practicas\Funcions\Funcions\Funcions.cpp(9,6): warning C4326: el tipo de valor devuelto de 'main' debe ser 'int' en lugar de 'void'
+  funciones.cpp
+  Generando código...
+  Funcions.vcxproj -> E:\AluCiclesGS1\Assignaturas\Programacion\Practicas\Funcions\x64\Debug\Funcions.exe

@@ -1,0 +1,42 @@
+﻿  PointerTest.cpp
+E:\AluCiclesGS1\Assignaturas\Programacion\Practicas\PointerTest\PointerTest\PointerTest.cpp(8,6): error C2182: 'testCopyConstructor': este uso de 'void' no es válido
+E:\AluCiclesGS1\Assignaturas\Programacion\Practicas\PointerTest\PointerTest\PointerTest.cpp(8,26): error C2065: 'Critter': identificador no declarado
+E:\AluCiclesGS1\Assignaturas\Programacion\Practicas\PointerTest\PointerTest\PointerTest.cpp(8,34): error C2146: error de sintaxis: falta ')' delante del identificador 'aCopy'
+E:\AluCiclesGS1\Assignaturas\Programacion\Practicas\PointerTest\PointerTest\PointerTest.cpp(15,10): error C2065: 'end1': identificador no declarado
+E:\AluCiclesGS1\Assignaturas\Programacion\Practicas\PointerTest\PointerTest\PointerTest.cpp(17,2): error C2065: 'Critter': identificador no declarado
+E:\AluCiclesGS1\Assignaturas\Programacion\Practicas\PointerTest\PointerTest\PointerTest.cpp(17,10): error C2146: error de sintaxis: falta ';' delante del identificador 'crit'
+E:\AluCiclesGS1\Assignaturas\Programacion\Practicas\PointerTest\PointerTest\PointerTest.cpp(17,10): error C3861: 'crit': no se encontró el identificador
+E:\AluCiclesGS1\Assignaturas\Programacion\Practicas\PointerTest\PointerTest\PointerTest.cpp(18,2): error C2065: 'crit': identificador no declarado
+E:\AluCiclesGS1\Assignaturas\Programacion\Practicas\PointerTest\PointerTest\PointerTest.cpp(19,22): error C2065: 'crit': identificador no declarado
+E:\AluCiclesGS1\Assignaturas\Programacion\Practicas\PointerTest\PointerTest\PointerTest.cpp(20,2): error C2065: 'crit': identificador no declarado
+E:\AluCiclesGS1\Assignaturas\Programacion\Practicas\PointerTest\PointerTest\PointerTest.cpp(21,10): error C2065: 'end1': identificador no declarado
+E:\AluCiclesGS1\Assignaturas\Programacion\Practicas\PointerTest\PointerTest\PointerTest.cpp(30,2): error C2065: 'Critter': identificador no declarado
+E:\AluCiclesGS1\Assignaturas\Programacion\Practicas\PointerTest\PointerTest\PointerTest.cpp(30,10): error C2146: error de sintaxis: falta ';' delante del identificador 'toDestroy'
+E:\AluCiclesGS1\Assignaturas\Programacion\Practicas\PointerTest\PointerTest\PointerTest.cpp(30,10): error C3861: 'toDestroy': no se encontró el identificador
+E:\AluCiclesGS1\Assignaturas\Programacion\Practicas\PointerTest\PointerTest\PointerTest.cpp(31,2): error C2065: 'toDestroy': identificador no declarado
+E:\AluCiclesGS1\Assignaturas\Programacion\Practicas\PointerTest\PointerTest\PointerTest.cpp(34,6): error C2182: 'testCopyConstructor': este uso de 'void' no es válido
+E:\AluCiclesGS1\Assignaturas\Programacion\Practicas\PointerTest\PointerTest\PointerTest.cpp(34,6): error C2374: 'testCopyConstructor': nueva definición; inicialización múltiple
+      E:\AluCiclesGS1\Assignaturas\Programacion\Practicas\PointerTest\PointerTest\PointerTest.cpp(8,6):
+      vea la declaración de 'testCopyConstructor'
+  
+E:\AluCiclesGS1\Assignaturas\Programacion\Practicas\PointerTest\PointerTest\PointerTest.cpp(34,26): error C2065: 'Critter': identificador no declarado
+E:\AluCiclesGS1\Assignaturas\Programacion\Practicas\PointerTest\PointerTest\PointerTest.cpp(34,34): error C2146: error de sintaxis: falta ')' delante del identificador 'aCopy'
+E:\AluCiclesGS1\Assignaturas\Programacion\Practicas\PointerTest\PointerTest\PointerTest.cpp(35,1): error C2143: error de sintaxis: falta ';' delante de '{'
+E:\AluCiclesGS1\Assignaturas\Programacion\Practicas\PointerTest\PointerTest\PointerTest.cpp(35,1): error C2447: '{': falta el encabezado de función (¿lista formal de estilo anterior?)
+E:\AluCiclesGS1\Assignaturas\Programacion\Practicas\PointerTest\PointerTest\PointerTest.cpp(41,2): error C2065: 'Critter': identificador no declarado
+E:\AluCiclesGS1\Assignaturas\Programacion\Practicas\PointerTest\PointerTest\PointerTest.cpp(41,10): error C2146: error de sintaxis: falta ';' delante del identificador 'crit1'
+E:\AluCiclesGS1\Assignaturas\Programacion\Practicas\PointerTest\PointerTest\PointerTest.cpp(41,10): error C3861: 'crit1': no se encontró el identificador
+E:\AluCiclesGS1\Assignaturas\Programacion\Practicas\PointerTest\PointerTest\PointerTest.cpp(42,2): error C2065: 'Critter': identificador no declarado
+E:\AluCiclesGS1\Assignaturas\Programacion\Practicas\PointerTest\PointerTest\PointerTest.cpp(42,10): error C2146: error de sintaxis: falta ';' delante del identificador 'crit2'
+E:\AluCiclesGS1\Assignaturas\Programacion\Practicas\PointerTest\PointerTest\PointerTest.cpp(42,10): error C3861: 'crit2': no se encontró el identificador
+E:\AluCiclesGS1\Assignaturas\Programacion\Practicas\PointerTest\PointerTest\PointerTest.cpp(43,2): error C2065: 'crit1': identificador no declarado
+E:\AluCiclesGS1\Assignaturas\Programacion\Practicas\PointerTest\PointerTest\PointerTest.cpp(43,10): error C2065: 'crit2': identificador no declarado
+E:\AluCiclesGS1\Assignaturas\Programacion\Practicas\PointerTest\PointerTest\PointerTest.cpp(44,2): error C2065: 'crit1': identificador no declarado
+E:\AluCiclesGS1\Assignaturas\Programacion\Practicas\PointerTest\PointerTest\PointerTest.cpp(45,2): error C2065: 'crit2': identificador no declarado
+E:\AluCiclesGS1\Assignaturas\Programacion\Practicas\PointerTest\PointerTest\PointerTest.cpp(46,10): error C2065: 'end1': identificador no declarado
+E:\AluCiclesGS1\Assignaturas\Programacion\Practicas\PointerTest\PointerTest\PointerTest.cpp(48,2): error C2065: 'Critter': identificador no declarado
+E:\AluCiclesGS1\Assignaturas\Programacion\Practicas\PointerTest\PointerTest\PointerTest.cpp(48,10): error C2146: error de sintaxis: falta ';' delante del identificador 'crit3'
+E:\AluCiclesGS1\Assignaturas\Programacion\Practicas\PointerTest\PointerTest\PointerTest.cpp(48,10): error C3861: 'crit3': no se encontró el identificador
+E:\AluCiclesGS1\Assignaturas\Programacion\Practicas\PointerTest\PointerTest\PointerTest.cpp(49,2): error C2065: 'crit3': identificador no declarado
+E:\AluCiclesGS1\Assignaturas\Programacion\Practicas\PointerTest\PointerTest\PointerTest.cpp(49,10): error C2065: 'crit3': identificador no declarado
+E:\AluCiclesGS1\Assignaturas\Programacion\Practicas\PointerTest\PointerTest\PointerTest.cpp(50,2): error C2065: 'crit3': identificador no declarado

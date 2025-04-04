@@ -1,0 +1,10 @@
+﻿  Timber_GAME.cpp
+E:\AluCiclesGS1\Assignaturas\Programacion\Practicas\Timber_GAME\Timber_GAME\Timber_GAME.cpp(131,45): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+E:\AluCiclesGS1\Assignaturas\Programacion\Practicas\Timber_GAME\Timber_GAME\Timber_GAME.cpp(361,17): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+E:\AluCiclesGS1\Assignaturas\Programacion\Practicas\Timber_GAME\Timber_GAME\Timber_GAME.cpp(452,35): warning C4244: '+=': conversión de 'double' a 'float'; posible pérdida de datos
+E:\AluCiclesGS1\Assignaturas\Programacion\Practicas\Timber_GAME\Timber_GAME\Timber_GAME.cpp(487,35): warning C4244: '+=': conversión de 'double' a 'float'; posible pérdida de datos
+E:\AluCiclesGS1\Assignaturas\Programacion\Practicas\Timber_GAME\Timber_GAME\Timber_GAME.cpp(521,42): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+E:\AluCiclesGS1\Assignaturas\Programacion\Practicas\Timber_GAME\Timber_GAME\Timber_GAME.cpp(524,19): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+E:\AluCiclesGS1\Assignaturas\Programacion\Practicas\Timber_GAME\Timber_GAME\Timber_GAME.cpp(549,37): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+E:\AluCiclesGS1\Assignaturas\Programacion\Practicas\Timber_GAME\Timber_GAME\Timber_GAME.cpp(550,54): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  Timber_GAME.vcxproj -> E:\AluCiclesGS1\Assignaturas\Programacion\Practicas\Timber_GAME\Debug\Timber_GAME.exe

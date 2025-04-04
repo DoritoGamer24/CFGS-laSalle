@@ -1,0 +1,7 @@
+﻿  Grafics.cpp
+Grafics.obj : error LNK2019: símbolo externo "__declspec(dllimport) public: __cdecl sf::String::String(char const *,class std::locale const &)" (__imp_??0String@sf@@QEAA@PEBDAEBVlocale@std@@@Z) sin resolver al que se hace referencia en la función main
+Grafics.obj : error LNK2019: símbolo externo "__declspec(dllimport) public: __cdecl sf::String::~String(void)" (__imp_??1String@sf@@QEAA@XZ) sin resolver al que se hace referencia en la función main
+Grafics.obj : error LNK2019: símbolo externo "__declspec(dllimport) public: __cdecl sf::VideoMode::VideoMode(unsigned int,unsigned int,unsigned int)" (__imp_??0VideoMode@sf@@QEAA@III@Z) sin resolver al que se hace referencia en la función main
+Grafics.obj : error LNK2019: símbolo externo "__declspec(dllimport) public: __cdecl sf::Window::Window(class sf::VideoMode,class sf::String const &,unsigned int,struct sf::ContextSettings const &)" (__imp_??0Window@sf@@QEAA@VVideoMode@1@AEBVString@1@IAEBUContextSettings@1@@Z) sin resolver al que se hace referencia en la función main
+Grafics.obj : error LNK2019: símbolo externo "__declspec(dllimport) public: virtual __cdecl sf::Window::~Window(void)" (__imp_??1Window@sf@@UEAA@XZ) sin resolver al que se hace referencia en la función main
+E:\AluCiclesGS1\Assignaturas\Programacion\Practicas\Grafics\x64\Debug\Grafics.exe : fatal error LNK1120: 5 externos sin resolver

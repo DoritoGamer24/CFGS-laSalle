@@ -1,0 +1,4 @@
+﻿  Grafics.cpp
+E:\AluCiclesGS1\Assignaturas\Programacion\Practicas\Grafics\Grafics\Grafics.cpp(49,11): warning C4305: '=': truncamiento de 'double' a 'float'
+E:\AluCiclesGS1\Assignaturas\Programacion\Practicas\Grafics\Grafics\Grafics.cpp(51,19): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+  Grafics.vcxproj -> E:\AluCiclesGS1\Assignaturas\Programacion\Practicas\Grafics\Debug\Grafics.exe

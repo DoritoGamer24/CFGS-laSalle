@@ -1,0 +1,1081 @@
+Using pre-set license
+Built from '2022.3/staging' branch; Version is '2022.3.44f1 (c3ae09b9f03c) revision 12824073'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 11  (10.0.22631) 64bit Professional' Language: 'es' Physical Memory: 65371 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2022.3.44f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+E:/AluCiclesGS1/Assignaturas/Programacion/Unity/ITuAQueJuges_IkerQuintana
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+56403
+Successfully changed project path to: E:/AluCiclesGS1/Assignaturas/Programacion/Unity/ITuAQueJuges_IkerQuintana
+E:/AluCiclesGS1/Assignaturas/Programacion/Unity/ITuAQueJuges_IkerQuintana
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [9176]  Target information:
+
+Player connection [9176]  * "[IP] 10.30.30.17 [Port] 0 [Flags] 2 [Guid] 2246867138 [EditorId] 2246867138 [Version] 1048832 [Id] WindowsEditor(7,CFGS17) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [9176]  * "[IP] 192.168.56.1 [Port] 0 [Flags] 2 [Guid] 2246867138 [EditorId] 2246867138 [Version] 1048832 [Id] WindowsEditor(7,CFGS17) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [9176]  * "[IP] 172.22.192.1 [Port] 0 [Flags] 2 [Guid] 2246867138 [EditorId] 2246867138 [Version] 1048832 [Id] WindowsEditor(7,CFGS17) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [9176] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [9176] Host joined alternative multi-casting on [225.0.0.222:34997]...
+[PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+Refreshing native plugins compatible for Editor in 2.25 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2022.3.44f1 (c3ae09b9f03c)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2022.3.44f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path E:/AluCiclesGS1/Assignaturas/Programacion/Unity/ITuAQueJuges_IkerQuintana/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 2060 (ID=0x1f08)
+    Vendor:   NVIDIA
+    VRAM:     5954 MB
+    Driver:   32.0.15.6081
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2022.3.44f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2022.3.44f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2022.3.44f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56076
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.44f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.44f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.003481 seconds.
+- Loaded All Assemblies, in  0.243 seconds
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.170 seconds
+Domain Reload Profiling: 413ms
+	BeginReloadAssembly (73ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (24ms)
+	RebuildNativeTypeToScriptingClass (7ms)
+	initialDomainReloadingComplete (38ms)
+	LoadAllAssembliesAndSetupDomain (101ms)
+		LoadAssemblies (72ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (99ms)
+			TypeCache.Refresh (98ms)
+				TypeCache.ScanAssembly (88ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (0ms)
+	FinalizeReload (170ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (139ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (7ms)
+			SetLoadedEditorAssemblies (4ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (2ms)
+			ProcessInitializeOnLoadAttributes (97ms)
+			ProcessInitializeOnLoadMethodAttributes (29ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Caller must complete domain reload
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.374 seconds
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.343 seconds
+Domain Reload Profiling: 717ms
+	BeginReloadAssembly (91ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (3ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (14ms)
+	RebuildCommonClasses (20ms)
+	RebuildNativeTypeToScriptingClass (7ms)
+	initialDomainReloadingComplete (26ms)
+	LoadAllAssembliesAndSetupDomain (231ms)
+		LoadAssemblies (169ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (114ms)
+			TypeCache.Refresh (99ms)
+				TypeCache.ScanAssembly (89ms)
+			ScanForSourceGeneratedMonoScriptInfo (10ms)
+			ResolveRequiredComponents (3ms)
+	FinalizeReload (343ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (256ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (4ms)
+			SetLoadedEditorAssemblies (2ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (33ms)
+			ProcessInitializeOnLoadAttributes (200ms)
+			ProcessInitializeOnLoadMethodAttributes (14ms)
+			AfterProcessingInitializeOnLoad (3ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (4ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.02 seconds
+Refreshing native plugins compatible for Editor in 0.85 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3137 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 19 unused Assets / (54.6 KB). Loaded Objects now: 3604.
+Memory consumption went from 123.6 MB to 123.5 MB.
+Total: 2.334300 ms (FindLiveObjects: 0.201900 ms CreateObjectMapping: 0.076400 ms MarkObjects: 1.981900 ms  DeleteObjects: 0.073200 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 18595.775952 seconds.
+  path: Assets/Prefabs/projectile.prefab
+  artifactKey: Guid(f0be05e2c01857442af2fe9cda39ffb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/projectile.prefab using Guid(f0be05e2c01857442af2fe9cda39ffb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: '11a339cc0e3c34cc04efd7e3a941d0ea') in 0.061175 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 23.175898 seconds.
+  path: Assets/Mini_Pixel_2D_Weapons/Mini_M4/Left_Side
+  artifactKey: Guid(e691028f74174694a80230ff2f4eea12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mini_Pixel_2D_Weapons/Mini_M4/Left_Side using Guid(e691028f74174694a80230ff2f4eea12) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: 'd71b6e5e3fcddd10c9c7eb19b70e0ff1') in 0.000429 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.001703 seconds.
+  path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Drop Shadow.mat
+  artifactKey: Guid(e73a58f6e2794ae7b1b7e50b7fb811b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Drop Shadow.mat using Guid(e73a58f6e2794ae7b1b7e50b7fb811b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: 'bdc0f09bd87a40da31fab1232c925a4d') in 0.056652 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000090 seconds.
+  path: Assets/Mini_Pixel_2D_Weapons/ShellEjecting/Animations/Mini_G17_ShellEjecting_2.anim
+  artifactKey: Guid(a5913a83b5944a842b2e2015f92e9612) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mini_Pixel_2D_Weapons/ShellEjecting/Animations/Mini_G17_ShellEjecting_2.anim using Guid(a5913a83b5944a842b2e2015f92e9612) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: '86d53d50f4fa6dbdbd3cdd19bc4f60ba') in 0.000811 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.002801 seconds.
+  path: Assets/Mini_Pixel_2D_Weapons/ShellEjecting/Animations/Mini_G17_ShellEjecting_3_0.controller
+  artifactKey: Guid(11f16ce717d2fcb478c88926450475ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mini_Pixel_2D_Weapons/ShellEjecting/Animations/Mini_G17_ShellEjecting_3_0.controller using Guid(11f16ce717d2fcb478c88926450475ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: '8eed1e8809e692564ef797dfea494b26') in 0.001218 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 4
+========================================================================
+Received Import Request.
+  Time since last request: 0.001250 seconds.
+  path: Assets/Mini_Pixel_2D_Weapons/Mini_M4/Animations
+  artifactKey: Guid(5f5be42491b8e0a4cb2016a0fb56de2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mini_Pixel_2D_Weapons/Mini_M4/Animations using Guid(5f5be42491b8e0a4cb2016a0fb56de2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: '0e35cabe417791d3392dc5a6aad60741') in 0.000192 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.000760 seconds.
+  path: Assets/TextMesh Pro/Shaders/TMP_SDF SSD.shader
+  artifactKey: Guid(14eb328de4b8eb245bb7cea29e4ac00b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Shaders/TMP_SDF SSD.shader using Guid(14eb328de4b8eb245bb7cea29e4ac00b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: 'c9fa2b34d2206f67d1bbe504247518fd') in 0.000288 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.002169 seconds.
+  path: Assets/Mini_Pixel_2D_Weapons/Throwable/Mini_M67_Fragment/Mini_M67_Fragment_L-Pin.png
+  artifactKey: Guid(c8e9ebf044ca90844af534d8c914fb14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mini_Pixel_2D_Weapons/Throwable/Mini_M67_Fragment/Mini_M67_Fragment_L-Pin.png using Guid(c8e9ebf044ca90844af534d8c914fb14) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: '1b05fd776f191c771c7d650a9f53f939') in 0.017238 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000860 seconds.
+  path: Assets/Mini_Pixel_2D_Weapons/Throwable/Mini_M84_Flashbang/Mini_M84_FlashBang_SafePin.png
+  artifactKey: Guid(83f94218f1e428e45ab4565be6e1ba02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mini_Pixel_2D_Weapons/Throwable/Mini_M84_Flashbang/Mini_M84_FlashBang_SafePin.png using Guid(83f94218f1e428e45ab4565be6e1ba02) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: '30da6d57083771d8c8e4098b84ba9089') in 0.006491 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.002036 seconds.
+  path: Assets/Mini_Pixel_2D_Weapons/Throwable/Mini_M67_Fragment/Mini_M67_Fragment_Fuse.png
+  artifactKey: Guid(231fe078905e55f45be4dd4b01c5da41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mini_Pixel_2D_Weapons/Throwable/Mini_M67_Fragment/Mini_M67_Fragment_Fuse.png using Guid(231fe078905e55f45be4dd4b01c5da41) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: '848021fb7cf1058c843a67ed3104f903') in 0.006495 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000624 seconds.
+  path: Assets/TextMesh Pro/Shaders
+  artifactKey: Guid(e9f693669af91aa45ad615fc681ed29f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Shaders using Guid(e9f693669af91aa45ad615fc681ed29f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: 'c9800e6720add5653b6f84836174c71d') in 0.000203 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.000652 seconds.
+  path: Assets/TextMesh Pro/Shaders/TMPro_Surface.cginc
+  artifactKey: Guid(d930090c0cd643c7b55f19a38538c162) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Shaders/TMPro_Surface.cginc using Guid(d930090c0cd643c7b55f19a38538c162) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: '8f349ec83474fb73325d9a3d8c9b58b5') in 0.000335 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.001377 seconds.
+  path: Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader
+  artifactKey: Guid(fe393ace9b354375a9cb14cdbbc28be4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader using Guid(fe393ace9b354375a9cb14cdbbc28be4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: '79753a06941cefe029fdea1ce076c2c2') in 0.000238 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.000652 seconds.
+  path: Assets/Mini_Pixel_2D_Weapons/Mini_M4/Animations/Mini_M4_Bolt_Movement.anim
+  artifactKey: Guid(8b2cd956af8f3204db7cd91d29b4312b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mini_Pixel_2D_Weapons/Mini_M4/Animations/Mini_M4_Bolt_Movement.anim using Guid(8b2cd956af8f3204db7cd91d29b4312b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: '3b5f2c1ed51ef439cc00054aab4b58c4') in 0.000411 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.001051 seconds.
+  path: Assets/Mini_Pixel_2D_Weapons/Throwable/Mini_M84_Flashbang
+  artifactKey: Guid(7b5004f12bf37da43993e59a0477d2b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mini_Pixel_2D_Weapons/Throwable/Mini_M84_Flashbang using Guid(7b5004f12bf37da43993e59a0477d2b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: 'b7f4b13be989bd0a900649240dbd8d78') in 0.000190 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.002448 seconds.
+  path: Assets/Mini_Pixel_2D_Weapons/Mini_M4/Right_Side/R_Mini_M4_Upper.png
+  artifactKey: Guid(5a024f6236e75f746ae7402f994e2405) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mini_Pixel_2D_Weapons/Mini_M4/Right_Side/R_Mini_M4_Upper.png using Guid(5a024f6236e75f746ae7402f994e2405) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: 'fb4daece44305c2de3917fe137a3ec28') in 0.005950 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000782 seconds.
+  path: Assets/TextMesh Pro/Shaders/TMP_SDF.shader
+  artifactKey: Guid(68e6db2ebdc24f95958faec2be5558d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Shaders/TMP_SDF.shader using Guid(68e6db2ebdc24f95958faec2be5558d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: '32b9d1780e2bb7466e367194722af59b') in 0.000296 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.000665 seconds.
+  path: Assets/TextMesh Pro/Shaders/TMP_Bitmap.shader
+  artifactKey: Guid(128e987d567d4e2c824d754223b3f3b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Shaders/TMP_Bitmap.shader using Guid(128e987d567d4e2c824d754223b3f3b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: '0633acf3ac21bc270e9f8886a6ffaff9') in 0.000239 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.000657 seconds.
+  path: Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile SSD.shader
+  artifactKey: Guid(c8d12adcee749c344b8117cf7c7eb912) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile SSD.shader using Guid(c8d12adcee749c344b8117cf7c7eb912) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: 'aee0dbf6441df735a292c9da43b1a70f') in 0.000238 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.001560 seconds.
+  path: Assets/TextMesh Pro/Resources/LineBreaking Following Characters.txt
+  artifactKey: Guid(fade42e8bc714b018fac513c043d323b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/LineBreaking Following Characters.txt using Guid(fade42e8bc714b018fac513c043d323b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: '24cf00695fcba3beea73c5c877391637') in 0.000338 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000689 seconds.
+  path: Assets/Mini_Pixel_2D_Weapons/ShellEjecting/Animations/Mini_G17_ShellEjecting_3.anim
+  artifactKey: Guid(eed34d13181bb9246a882d5f4877d332) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mini_Pixel_2D_Weapons/ShellEjecting/Animations/Mini_G17_ShellEjecting_3.anim using Guid(eed34d13181bb9246a882d5f4877d332) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: '482e9c9260cdce40d52bd5fa613520a6') in 0.000419 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000706 seconds.
+  path: Assets/TextMesh Pro/Fonts
+  artifactKey: Guid(6ab70aee4d56447429c680537fbf93ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Fonts using Guid(6ab70aee4d56447429c680537fbf93ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: '20111567da1f29bfd88bf993dacb0055') in 0.000177 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.000659 seconds.
+  path: Assets/Mini_Pixel_2D_Weapons/ShellEjecting/Animations/Mini_M4_ShellEjecting_1_0.controller
+  artifactKey: Guid(6e3968c22f46c984ca9ca63f2a18f848) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mini_Pixel_2D_Weapons/ShellEjecting/Animations/Mini_M4_ShellEjecting_1_0.controller using Guid(6e3968c22f46c984ca9ca63f2a18f848) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: '0dd954d994def06600c1d44d44de8095') in 0.000479 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 4
+========================================================================
+Received Import Request.
+  Time since last request: 0.000656 seconds.
+  path: Assets/TextMesh Pro/Sprites/EmojiOne.json
+  artifactKey: Guid(8f05276190cf498a8153f6cbe761d4e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Sprites/EmojiOne.json using Guid(8f05276190cf498a8153f6cbe761d4e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: 'df0a471d95dedb7df1c55a8c8620fe9c') in 0.000311 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.002154 seconds.
+  path: Assets/Mini_Pixel_2D_Weapons/Throwable/Mini_M67_Fragment/Mini_M67_Fragment_SafePin.png
+  artifactKey: Guid(651b4fe398b018245919e0841bca614e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mini_Pixel_2D_Weapons/Throwable/Mini_M67_Fragment/Mini_M67_Fragment_SafePin.png using Guid(651b4fe398b018245919e0841bca614e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: '730d99ff9cf87e43c4f0923cbe93b55a') in 0.004966 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000623 seconds.
+  path: Assets/Mini_Pixel_2D_Weapons/ShellEjecting/Animations
+  artifactKey: Guid(9c38481a86f5fea49b1dcf9cce65d048) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mini_Pixel_2D_Weapons/ShellEjecting/Animations using Guid(9c38481a86f5fea49b1dcf9cce65d048) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: '75d6c507fde979635efefae30d3cd98d') in 0.000198 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.001904 seconds.
+  path: Assets/Mini_Pixel_2D_Weapons/Mini_G17/Animations/R_Mini_G17_ReflexSight_Movement.anim
+  artifactKey: Guid(b8d42b07d0be5c34887eb22f983d39a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mini_Pixel_2D_Weapons/Mini_G17/Animations/R_Mini_G17_ReflexSight_Movement.anim using Guid(b8d42b07d0be5c34887eb22f983d39a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: 'bb263bf4f1d2ede725c9ebf7991b6bf4') in 0.000372 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.001106 seconds.
+  path: Assets/Mini_Pixel_2D_Weapons/Mini_M4/Animations/Mini_M4_ChargingHandle_Movement.anim
+  artifactKey: Guid(b58f7adb758bcaa499763d539e9f6776) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mini_Pixel_2D_Weapons/Mini_M4/Animations/Mini_M4_ChargingHandle_Movement.anim using Guid(b58f7adb758bcaa499763d539e9f6776) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: '4809c16da468191d7bd46c1eecdd6211') in 0.000466 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.002013 seconds.
+  path: Assets/TextMesh Pro/Resources/Fonts & Materials
+  artifactKey: Guid(731f1baa9d144a9897cb1d341c2092b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/Fonts & Materials using Guid(731f1baa9d144a9897cb1d341c2092b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: '4c6deede9e0caf520236954822387b13') in 0.000179 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.001070 seconds.
+  path: Assets/Mini_Pixel_2D_Weapons/Mini_G17/Animations/Mini G17_ReflexSight_0.controller
+  artifactKey: Guid(002a68095e640d04296e12b85fe42295) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mini_Pixel_2D_Weapons/Mini_G17/Animations/Mini G17_ReflexSight_0.controller using Guid(002a68095e640d04296e12b85fe42295) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: '4a8d3a50e06ffa1a192cd39947112e41') in 0.000461 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 4
+========================================================================
+Received Import Request.
+  Time since last request: 0.001355 seconds.
+  path: Assets/TextMesh Pro
+  artifactKey: Guid(f54d1bd14bd3ca042bd867b519fee8cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro using Guid(f54d1bd14bd3ca042bd867b519fee8cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: 'dd6ad478d9966b0e483c01b5bd727387') in 0.000191 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.002641 seconds.
+  path: Assets/Mini_Pixel_2D_Weapons/Mini_M4/Left_Side/L_Mini_M4_ACOG.png
+  artifactKey: Guid(b19d4cccefd659b4dbf98ee1bbf401a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mini_Pixel_2D_Weapons/Mini_M4/Left_Side/L_Mini_M4_ACOG.png using Guid(b19d4cccefd659b4dbf98ee1bbf401a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: '29b22ccee228b54d61445c5ef769853a') in 0.005282 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000932 seconds.
+  path: Assets/Mini_Pixel_2D_Weapons/Mini_M4/Animations/Mini_M4_DustCover_0.controller
+  artifactKey: Guid(3d1be40cf46c9714cbc5d8f234bdedf3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mini_Pixel_2D_Weapons/Mini_M4/Animations/Mini_M4_DustCover_0.controller using Guid(3d1be40cf46c9714cbc5d8f234bdedf3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: 'a0683fad071d3aa005a81f5b1050e390') in 0.000565 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 4
+========================================================================
+Received Import Request.
+  Time since last request: 0.000746 seconds.
+  path: Assets/Mini_Pixel_2D_Weapons/Mini_M4/Left_Side/L_Mini_M4_HoloSight.png
+  artifactKey: Guid(8f487b765aedf284ba3bdbddb52a6e3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mini_Pixel_2D_Weapons/Mini_M4/Left_Side/L_Mini_M4_HoloSight.png using Guid(8f487b765aedf284ba3bdbddb52a6e3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: '7f770d5b8659462a5daa1b779c657218') in 0.009466 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.002326 seconds.
+  path: Assets/Mini_Pixel_2D_Weapons/Throwable/Mini_M84_Flashbang/Mini_M84_FlashBang_L-Pin.png
+  artifactKey: Guid(dbac51412e7b2c54fb1a15010655a108) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mini_Pixel_2D_Weapons/Throwable/Mini_M84_Flashbang/Mini_M84_FlashBang_L-Pin.png using Guid(dbac51412e7b2c54fb1a15010655a108) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: '365f40058605dff7dd3c0f029bc8077c') in 0.003672 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.001674 seconds.
+  path: Assets/Mini_Pixel_2D_Weapons/Throwable/Mini_M67_Fragment/Mini_M67_Fragment_Base.png
+  artifactKey: Guid(567074b60bffd5c4792368cc43f4fafe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mini_Pixel_2D_Weapons/Throwable/Mini_M67_Fragment/Mini_M67_Fragment_Base.png using Guid(567074b60bffd5c4792368cc43f4fafe) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: '9aca7968ba18a2971f2675651b940239') in 0.007250 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.001633 seconds.
+  path: Assets/TextMesh Pro/Shaders/TMP_Bitmap-Custom-Atlas.shader
+  artifactKey: Guid(48bb5f55d8670e349b6e614913f9d910) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Shaders/TMP_Bitmap-Custom-Atlas.shader using Guid(48bb5f55d8670e349b6e614913f9d910) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: '6489be4e27e1b32644328774027471ad') in 0.000296 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.003338 seconds.
+  path: Assets/Mini_Pixel_2D_Weapons/Mini_G17/Animations/R_Mini G17_Slide_0.controller
+  artifactKey: Guid(9ef13c81be427864abbdc87e00af6b78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mini_Pixel_2D_Weapons/Mini_G17/Animations/R_Mini G17_Slide_0.controller using Guid(9ef13c81be427864abbdc87e00af6b78) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: 'e281b8aee609a3a6475b903afc184869') in 0.000501 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 4
+========================================================================
+Received Import Request.
+  Time since last request: 0.000973 seconds.
+  path: Assets/Mini_Pixel_2D_Weapons/Mini_M4/Animations/Mini_M4_Bolt_0.controller
+  artifactKey: Guid(f73092fc3c3a0ed4085da7518a72b9c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mini_Pixel_2D_Weapons/Mini_M4/Animations/Mini_M4_Bolt_0.controller using Guid(f73092fc3c3a0ed4085da7518a72b9c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: '798fd61d899033111901d67a51ea3952') in 0.000492 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 4
+========================================================================
+Received Import Request.
+  Time since last request: 0.001390 seconds.
+  path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset
+  artifactKey: Guid(8f586378b4e144a9851e7b34d9b748ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset using Guid(8f586378b4e144a9851e7b34d9b748ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: 'e2dfd7da01bd93a4bcbf1bb9c3471b0d') in 0.026640 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000127 seconds.
+  path: Assets/Mini_Pixel_2D_Weapons/Mini_M4/Left_Side/L_Mini_M4_Lower.png
+  artifactKey: Guid(0b96a1ac1086b4849bddb3bea7a84f43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mini_Pixel_2D_Weapons/Mini_M4/Left_Side/L_Mini_M4_Lower.png using Guid(0b96a1ac1086b4849bddb3bea7a84f43) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: '278a1216aa2c261a77137ab93a37bd02') in 0.005437 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000841 seconds.
+  path: Assets/Mini_Pixel_2D_Weapons/Mini_G17/Animations/L_Mini_G17_Slide_Movement.anim
+  artifactKey: Guid(2d685d453521ad44aaa9fab3b322dde3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mini_Pixel_2D_Weapons/Mini_G17/Animations/L_Mini_G17_Slide_Movement.anim using Guid(2d685d453521ad44aaa9fab3b322dde3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: '8500acd601035f82d2576f0fb08290f2') in 0.000448 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.001471 seconds.
+  path: Assets/Mini_Pixel_2D_Weapons/Mini_M4/Right_Side/Mini_M4_UpperBackground.png
+  artifactKey: Guid(604282d036762ad458b2ac87c42f1994) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mini_Pixel_2D_Weapons/Mini_M4/Right_Side/Mini_M4_UpperBackground.png using Guid(604282d036762ad458b2ac87c42f1994) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: '8dc08608e7dbd09fdc2bf42d3e94dda0') in 0.005008 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000901 seconds.
+  path: Assets/Mini_Pixel_2D_Weapons/ShellEjecting/Animations/Mini_G17_ShellEjecting_2_0.controller
+  artifactKey: Guid(1f52818c36b5f8b4b97922a3af5f4643) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mini_Pixel_2D_Weapons/ShellEjecting/Animations/Mini_G17_ShellEjecting_2_0.controller using Guid(1f52818c36b5f8b4b97922a3af5f4643) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: '92e7e213526f93cdef2c49b5cf6c4599') in 0.000517 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 4
+========================================================================
+Received Import Request.
+  Time since last request: 0.002239 seconds.
+  path: Assets/TextMesh Pro/Resources/Style Sheets/Default Style Sheet.asset
+  artifactKey: Guid(f952c082cb03451daed3ee968ac6c63e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/Style Sheets/Default Style Sheet.asset using Guid(f952c082cb03451daed3ee968ac6c63e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: '7a4a535f0c8369ad622695c42259c11d') in 0.000634 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.002182 seconds.
+  path: Assets/Scripts/seleccion.cs
+  artifactKey: Guid(02ff0b1edeeb901498bee897bdda7df0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/seleccion.cs using Guid(02ff0b1edeeb901498bee897bdda7df0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: '21e715e8d6610b40721a6fd80a479bcd') in 0.000176 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.000666 seconds.
+  path: Assets/Mini_Pixel_2D_Weapons/Mini_G17/Animations/L_Mini_G17_StoppedSlide_Movement.anim
+  artifactKey: Guid(3f6fb2139bdbbbf4ca9ee6c29381adc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mini_Pixel_2D_Weapons/Mini_G17/Animations/L_Mini_G17_StoppedSlide_Movement.anim using Guid(3f6fb2139bdbbbf4ca9ee6c29381adc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: '5ceaba06bd87bcf40ee68e8aa1641232') in 0.000363 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000485 seconds.
+  path: Assets/TextMesh Pro/Documentation
+  artifactKey: Guid(8e7e8f5a82a3a134e91c54efd2274ea9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Documentation using Guid(8e7e8f5a82a3a134e91c54efd2274ea9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: '097ee97484745b541abb5aabd54e2ae1') in 0.000167 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.000859 seconds.
+  path: Assets/TextMesh Pro/Shaders/TMP_SDF-Surface-Mobile.shader
+  artifactKey: Guid(85187c2149c549c5b33f0cdb02836b17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Shaders/TMP_SDF-Surface-Mobile.shader using Guid(85187c2149c549c5b33f0cdb02836b17) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: 'bffa232aa4e3baa29520d3e05ed597a3') in 0.000232 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.000720 seconds.
+  path: Assets/Mini_Pixel_2D_Weapons/Mini_G17/Animations/L_Mini_G17_Slide_0 1.controller
+  artifactKey: Guid(c722cdd3e340d6e498e4888c085e1aab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mini_Pixel_2D_Weapons/Mini_G17/Animations/L_Mini_G17_Slide_0 1.controller using Guid(c722cdd3e340d6e498e4888c085e1aab) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: '734b84364ab8fa8a0ec331cbeacd6e34') in 0.000439 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 4
+========================================================================
+Received Import Request.
+  Time since last request: 0.001382 seconds.
+  path: Assets/Mini_Pixel_2D_Weapons/Mini_M4/Right_Side/Mini_M4_DustCover.png
+  artifactKey: Guid(8e8bfe9f4b49e0b4b8a91580ae0c9639) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mini_Pixel_2D_Weapons/Mini_M4/Right_Side/Mini_M4_DustCover.png using Guid(8e8bfe9f4b49e0b4b8a91580ae0c9639) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: '24a80ed47a74dd727f90946c84807de9') in 0.007137 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 5
+========================================================================
+Received Import Request.
+  Time since last request: 0.001546 seconds.
+  path: Assets/TextMesh Pro/Fonts/LiberationSans - OFL.txt
+  artifactKey: Guid(6e59c59b81ab47f9b6ec5781fa725d2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Fonts/LiberationSans - OFL.txt using Guid(6e59c59b81ab47f9b6ec5781fa725d2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: 'a4adbfa72b56579610a56d86d09b2249') in 0.000370 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000937 seconds.
+  path: Assets/TextMesh Pro/Resources/Style Sheets
+  artifactKey: Guid(4aecb92fff08436c8303b10eab8da368) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/Style Sheets using Guid(4aecb92fff08436c8303b10eab8da368) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: '7177ed8b9e64d6f961a4dba0965c9388') in 0.000170 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.000728 seconds.
+  path: Assets/TextMesh Pro/Shaders/TMPro_Properties.cginc
+  artifactKey: Guid(3997e2241185407d80309a82f9148466) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Shaders/TMPro_Properties.cginc using Guid(3997e2241185407d80309a82f9148466) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: '3530579b36a83720cf87e6057e84ee04') in 0.000301 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.002145 seconds.
+  path: Assets/Mini_Pixel_2D_Weapons/Mini_G17/Animations/R_Mini_G17_Slide_Movement.anim
+  artifactKey: Guid(e0b31b42104ff62488cb9337d78920b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mini_Pixel_2D_Weapons/Mini_G17/Animations/R_Mini_G17_Slide_Movement.anim using Guid(e0b31b42104ff62488cb9337d78920b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: 'adcb9588ce8a9d0f1bb8dae464d7495b') in 0.000385 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000677 seconds.
+  path: Assets/TextMesh Pro/Resources/Sprite Assets/EmojiOne.asset
+  artifactKey: Guid(c41005c129ba4d66911b75229fd70b45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/Sprite Assets/EmojiOne.asset using Guid(c41005c129ba4d66911b75229fd70b45) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: '77e024dcd111caf583b0b4b9ba9adc9a') in 0.001684 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000828 seconds.
+  path: Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Masking.shader
+  artifactKey: Guid(bc1ede39bf3643ee8e493720e4259791) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Masking.shader using Guid(bc1ede39bf3643ee8e493720e4259791) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: '0e38e2782c646d01d39200d3293a748d') in 0.000319 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.000748 seconds.
+  path: Assets/Mini_Pixel_2D_Weapons/ShellEjecting/Animations/Mini_M4_ShellEjecting_1.anim
+  artifactKey: Guid(f34ea57aece74904eb574fec083ecadb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mini_Pixel_2D_Weapons/ShellEjecting/Animations/Mini_M4_ShellEjecting_1.anim using Guid(f34ea57aece74904eb574fec083ecadb) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: 'd29324af6402ed3eab35fe93f6e04f15') in 0.000400 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.001648 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: 'b9b7278cc469ea5854bc213c07e89a74') in 0.000298 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.001659 seconds.
+  path: Assets/Mini_Pixel_2D_Weapons/Mini_M4/Right_Side
+  artifactKey: Guid(41d0d1f45f094004d87f086df305af90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mini_Pixel_2D_Weapons/Mini_M4/Right_Side using Guid(41d0d1f45f094004d87f086df305af90) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: 'd139b415b09a850e9c4e2bec3e42ec87') in 0.000248 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.000956 seconds.
+  path: Assets/TextMesh Pro/Shaders/TMP_Sprite.shader
+  artifactKey: Guid(cf81c85f95fe47e1a27f6ae460cf182c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Shaders/TMP_Sprite.shader using Guid(cf81c85f95fe47e1a27f6ae460cf182c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: '622ecadc0daaa6c1b335907e5d3e0ebf') in 0.000298 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.001777 seconds.
+  path: Assets/TextMesh Pro/Shaders/TMPro_Mobile.cginc
+  artifactKey: Guid(c334973cef89a9840b0b0c507e0377ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Shaders/TMPro_Mobile.cginc using Guid(c334973cef89a9840b0b0c507e0377ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: 'cba274f082ccc7b8e4fa8c5560a97b0b') in 0.000422 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000927 seconds.
+  path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset
+  artifactKey: Guid(2e498d1c8094910479dc3e1b768306a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset using Guid(2e498d1c8094910479dc3e1b768306a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: '02de02c368f2da0774dce83cdb2a5a99') in 0.006833 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6
+========================================================================
+Received Import Request.
+  Time since last request: 0.001881 seconds.
+  path: Assets/Mini_Pixel_2D_Weapons/Throwable/Mini_M84_Flashbang/Mini_M84_FlashBang_Base.png
+  artifactKey: Guid(c3660e932333ff24e8711a71e2b55af8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mini_Pixel_2D_Weapons/Throwable/Mini_M84_Flashbang/Mini_M84_FlashBang_Base.png using Guid(c3660e932333ff24e8711a71e2b55af8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: '41fe06ca8dc2ac88f1a8dbdf92986f17') in 0.014899 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.001134 seconds.
+  path: Assets/TextMesh Pro/Shaders/TMPro.cginc
+  artifactKey: Guid(407bc68d299748449bbf7f48ee690f8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Shaders/TMPro.cginc using Guid(407bc68d299748449bbf7f48ee690f8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: '02bb6cf8c4cb0c8ea34a23e574e96b0b') in 0.000517 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000850 seconds.
+  path: Assets/TextMesh Pro/Sprites/EmojiOne Attribution.txt
+  artifactKey: Guid(381dcb09d5029d14897e55f98031fca5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Sprites/EmojiOne Attribution.txt using Guid(381dcb09d5029d14897e55f98031fca5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: '8919eebe9d99d6decd1683eed81e7b64') in 0.000443 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000930 seconds.
+  path: Assets/TextMesh Pro/Shaders/TMP_SDF-Surface.shader
+  artifactKey: Guid(f7ada0af4f174f0694ca6a487b8f543d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Shaders/TMP_SDF-Surface.shader using Guid(f7ada0af4f174f0694ca6a487b8f543d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: '01dfc8da173ae3ce63d6aff6f88c0aa2') in 0.000335 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.001335 seconds.
+  path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Outline.mat
+  artifactKey: Guid(79459efec17a4d00a321bdcc27bbc385) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Outline.mat using Guid(79459efec17a4d00a321bdcc27bbc385) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: 'ead29fb5f809dedc5b05431621fcad77') in 0.011709 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.001423 seconds.
+  path: Assets/TextMesh Pro/Resources/Sprite Assets
+  artifactKey: Guid(512a49d95c0c4332bdd98131869c23c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/Sprite Assets using Guid(512a49d95c0c4332bdd98131869c23c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: 'c9022e1130fa0f6a3c30e29e54e09e73') in 0.000263 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.003503 seconds.
+  path: Assets/Mini_Pixel_2D_Weapons/Mini_M4/Right_Side/R_Mini_M4_HoloSight.png
+  artifactKey: Guid(17c552ac2892bfb4d82c595014917554) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mini_Pixel_2D_Weapons/Mini_M4/Right_Side/R_Mini_M4_HoloSight.png using Guid(17c552ac2892bfb4d82c595014917554) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: '6f7469a1fa8a0b2624b371092ead8ab8') in 0.005856 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.001780 seconds.
+  path: Assets/Mini_Pixel_2D_Weapons/Mini_G17/Animations/L_Mini_G17_Slide_0.controller
+  artifactKey: Guid(0388339ac440e8847a6851256432123f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mini_Pixel_2D_Weapons/Mini_G17/Animations/L_Mini_G17_Slide_0.controller using Guid(0388339ac440e8847a6851256432123f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: '35d0d43c109ba75a859796c1694ca8ec') in 0.000637 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 4
+========================================================================
+Received Import Request.
+  Time since last request: 0.000830 seconds.
+  path: Assets/Mini_Pixel_2D_Weapons/Mini_M4/Animations/Mini_M4_ChargingHandle_0.controller
+  artifactKey: Guid(08b52e4c05b16c644b750f5de647f448) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mini_Pixel_2D_Weapons/Mini_M4/Animations/Mini_M4_ChargingHandle_0.controller using Guid(08b52e4c05b16c644b750f5de647f448) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: '366e86304e810530ad6b0a4dd81ac9d8') in 0.000523 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 4
+========================================================================
+Received Import Request.
+  Time since last request: 0.000805 seconds.
+  path: Assets/Mini_Pixel_2D_Weapons/Mini_M4/Left_Side/L_Mini_M4_Upper.png
+  artifactKey: Guid(8fb52202ed475d440b9393df705f40b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mini_Pixel_2D_Weapons/Mini_M4/Left_Side/L_Mini_M4_Upper.png using Guid(8fb52202ed475d440b9393df705f40b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: 'd3a972712498269764351c7d536adcfb') in 0.005140 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.001537 seconds.
+  path: Assets/TextMesh Pro/Sprites/EmojiOne.png
+  artifactKey: Guid(dffef66376be4fa480fb02b19edbe903) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Sprites/EmojiOne.png using Guid(dffef66376be4fa480fb02b19edbe903) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: '96efdddd49e4310871cec44f1d9b8a82') in 0.004234 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.001045 seconds.
+  path: Assets/Mini_Pixel_2D_Weapons/Throwable/Mini_M67_Fragment/Mini_M67_Fragment.png
+  artifactKey: Guid(9910629e4870d634197fc348c7da3e71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mini_Pixel_2D_Weapons/Throwable/Mini_M67_Fragment/Mini_M67_Fragment.png using Guid(9910629e4870d634197fc348c7da3e71) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: '3ac56981e2275da529da5b856cca6635') in 0.005118 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.001783 seconds.
+  path: Assets/Scripts/projectilSpeed.cs
+  artifactKey: Guid(be459ccab7d08b64587313fa8904bbcb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/projectilSpeed.cs using Guid(be459ccab7d08b64587313fa8904bbcb) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: 'd5b5284a904eb9fbc6117a2ee4cd4acd') in 0.000222 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.001172 seconds.
+  path: Assets/Scripts/arma.cs
+  artifactKey: Guid(5782239eff7eafd44943e6f8735abfea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/arma.cs using Guid(5782239eff7eafd44943e6f8735abfea) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: 'ef7111746c5f3465bb3e7817215d43a3') in 0.000202 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.002226 seconds.
+  path: Assets/TextMesh Pro/Shaders/TMP_SDF Overlay.shader
+  artifactKey: Guid(dd89cf5b9246416f84610a006f916af7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Shaders/TMP_SDF Overlay.shader using Guid(dd89cf5b9246416f84610a006f916af7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: 'e5764a33a8e286e90cada0c0e67a96cc') in 0.000282 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.002328 seconds.
+  path: Assets/Mini_Pixel_2D_Weapons/Throwable/Mini_M84_Flashbang/Mini_M84_FlashBang.png
+  artifactKey: Guid(af0892bceb1c1d54bbaf3dd0dec332f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mini_Pixel_2D_Weapons/Throwable/Mini_M84_Flashbang/Mini_M84_FlashBang.png using Guid(af0892bceb1c1d54bbaf3dd0dec332f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: '82aefe09e0394ce1fdc89f0fa3b13f48') in 0.003766 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000843 seconds.
+  path: Assets/Mini_Pixel_2D_Weapons/ShellEjecting/Animations/Mini_G17_ShellEjecting_1.anim
+  artifactKey: Guid(a8a4725368dee8241915d8889210d727) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mini_Pixel_2D_Weapons/ShellEjecting/Animations/Mini_G17_ShellEjecting_1.anim using Guid(a8a4725368dee8241915d8889210d727) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: 'c508971f201441953cb475b3ec449818') in 0.000448 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000786 seconds.
+  path: Assets/Mini_Pixel_2D_Weapons/Mini_M4/Right_Side/R_Mini_M4_Lower.png
+  artifactKey: Guid(6771eac09cb80d14caba998312595f38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mini_Pixel_2D_Weapons/Mini_M4/Right_Side/R_Mini_M4_Lower.png using Guid(6771eac09cb80d14caba998312595f38) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: '8711256ede4c9e6eea26f74df0bd7a9b') in 0.005260 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.002274 seconds.
+  path: Assets/Mini_Pixel_2D_Weapons/Throwable/Mini_M84_Flashbang/Mini_M84_FlashBang_SafePin2.png
+  artifactKey: Guid(9d1f02f4e9525e4459c5b7203bc5b424) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mini_Pixel_2D_Weapons/Throwable/Mini_M84_Flashbang/Mini_M84_FlashBang_SafePin2.png using Guid(9d1f02f4e9525e4459c5b7203bc5b424) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: '2a205b2caecce309311b773b71a0afe6') in 0.004926 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.001608 seconds.
+  path: Assets/TextMesh Pro/Resources/TMP Settings.asset
+  artifactKey: Guid(3f5b5dff67a942289a9defa416b206f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/TMP Settings.asset using Guid(3f5b5dff67a942289a9defa416b206f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: '67dad185b586f63e47ea3042fdf1c68b') in 0.010187 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 15
+========================================================================
+Received Import Request.
+  Time since last request: 0.000682 seconds.
+  path: Assets/Mini_Pixel_2D_Weapons/Mini_G17/Animations/L_Mini_G17_Frame_0.controller
+  artifactKey: Guid(c615208b290a66c4099197d8c1486d89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mini_Pixel_2D_Weapons/Mini_G17/Animations/L_Mini_G17_Frame_0.controller using Guid(c615208b290a66c4099197d8c1486d89) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: 'e539215bef9c52eaaddecac840561b50') in 0.000566 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 4
+========================================================================
+Received Import Request.
+  Time since last request: 0.000530 seconds.
+  path: Assets/Mini_Pixel_2D_Weapons/Throwable/Mini_M67_Fragment
+  artifactKey: Guid(2a6c1f5227a1aad4cbbe81fb9665c6a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mini_Pixel_2D_Weapons/Throwable/Mini_M67_Fragment using Guid(2a6c1f5227a1aad4cbbe81fb9665c6a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: 'c8f732dc2d1227f625d33655681ed5e2') in 0.000174 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.000509 seconds.
+  path: Assets/TextMesh Pro/Sprites
+  artifactKey: Guid(d0603b6d5186471b96c778c3949c7ce2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Sprites using Guid(d0603b6d5186471b96c778c3949c7ce2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: '4efdb37c6eb1b7bda5571a62901eb1ba') in 0.000167 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.000653 seconds.
+  path: Assets/Mini_Pixel_2D_Weapons/Mini_M4/Animations/Mini_M4_DustCover_Movement.anim
+  artifactKey: Guid(54894291ec6f4b34eb6066196fb3bec9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mini_Pixel_2D_Weapons/Mini_M4/Animations/Mini_M4_DustCover_Movement.anim using Guid(54894291ec6f4b34eb6066196fb3bec9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: 'f6e9855abeca08316b875e1c7751b3c2') in 0.000366 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000670 seconds.
+  path: Assets/Mini_Pixel_2D_Weapons/ShellEjecting/Animations/Mini_G17_ShellEjecting_1_0.controller
+  artifactKey: Guid(addac8321b6964a46b105d2143b4c68b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mini_Pixel_2D_Weapons/ShellEjecting/Animations/Mini_G17_ShellEjecting_1_0.controller using Guid(addac8321b6964a46b105d2143b4c68b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: 'dba8afb57659a6715cb33e04f8521eaa') in 0.000462 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 4
+========================================================================
+Received Import Request.
+  Time since last request: 0.005136 seconds.
+  path: Assets/TextMesh Pro/Documentation/TextMesh Pro User Guide 2016.pdf
+  artifactKey: Guid(1b8d251f9af63b746bf2f7ffe00ebb9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Documentation/TextMesh Pro User Guide 2016.pdf using Guid(1b8d251f9af63b746bf2f7ffe00ebb9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: '57a27060c29fba65670700a19a5b9cf1') in 0.000361 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.002179 seconds.
+  path: Assets/Mini_Pixel_2D_Weapons/Throwable/Mini_M84_Flashbang/Mini_M84_FlashBang_Fuse.png
+  artifactKey: Guid(0a62d7e85805e334791b4662b530b054) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mini_Pixel_2D_Weapons/Throwable/Mini_M84_Flashbang/Mini_M84_FlashBang_Fuse.png using Guid(0a62d7e85805e334791b4662b530b054) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: '3b493920de6273aba30f6b5c4e37a58d') in 0.005392 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000814 seconds.
+  path: Assets/TextMesh Pro/Shaders/TMP_Bitmap-Mobile.shader
+  artifactKey: Guid(1e3b057af24249748ff873be7fafee47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Shaders/TMP_Bitmap-Mobile.shader using Guid(1e3b057af24249748ff873be7fafee47) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: '89e7bf545fd2eac93439e88c8e8e4898') in 0.000274 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.000656 seconds.
+  path: Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Overlay.shader
+  artifactKey: Guid(a02a7d8c237544f1962732b55a9aebf1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Overlay.shader using Guid(a02a7d8c237544f1962732b55a9aebf1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: 'cb604b9c13a57f83423e949ab14c8f02') in 0.000238 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.000502 seconds.
+  path: Assets/TextMesh Pro/Resources
+  artifactKey: Guid(243e06394e614e5d99fab26083b707fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources using Guid(243e06394e614e5d99fab26083b707fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: '763d16b2d0db79cbaec12fe00f14e0b0') in 0.000156 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.000709 seconds.
+  path: Assets/TextMesh Pro/Resources/LineBreaking Leading Characters.txt
+  artifactKey: Guid(d82c1b31c7e74239bff1220585707d2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/LineBreaking Leading Characters.txt using Guid(d82c1b31c7e74239bff1220585707d2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: '9ec4e9cd20b5488c01769c68cb4ec893') in 0.000296 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.002489 seconds.
+  path: Assets/TextMesh Pro/Fonts/LiberationSans.ttf
+  artifactKey: Guid(e3265ab4bf004d28a9537516768c1c75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Fonts/LiberationSans.ttf using Guid(e3265ab4bf004d28a9537516768c1c75) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: 'cc0b5300b8e0f983116f46e186ac1a94') in 0.008035 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 4
+========================================================================
+Received Import Request.
+  Time since last request: 0.000815 seconds.
+  path: Assets/Mini_Pixel_2D_Weapons/Mini_M4/Right_Side/R_Mini_M4_ACOG.png
+  artifactKey: Guid(789ddff8995bb5f4995f48c3a3cee9ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mini_Pixel_2D_Weapons/Mini_M4/Right_Side/R_Mini_M4_ACOG.png using Guid(789ddff8995bb5f4995f48c3a3cee9ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: '079b5f30ccfc7656f98adc0b7c356b14') in 0.005004 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3

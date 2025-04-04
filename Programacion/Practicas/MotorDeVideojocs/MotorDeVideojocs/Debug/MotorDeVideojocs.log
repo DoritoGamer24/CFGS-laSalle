@@ -1,0 +1,15 @@
+﻿  Engine.cpp
+E:\AluCiclesGS1\Assignaturas\Programacion\Practicas\MotorDeVideojocs\MotorDeVideojocs\Engine.cpp(19,46): warning C4244: 'argumento': conversión de 'T' a 'unsigned int'; posible pérdida de datos
+E:\AluCiclesGS1\Assignaturas\Programacion\Practicas\MotorDeVideojocs\MotorDeVideojocs\Engine.cpp(19,46): warning C4244:         with
+E:\AluCiclesGS1\Assignaturas\Programacion\Practicas\MotorDeVideojocs\MotorDeVideojocs\Engine.cpp(19,46): warning C4244:         [
+E:\AluCiclesGS1\Assignaturas\Programacion\Practicas\MotorDeVideojocs\MotorDeVideojocs\Engine.cpp(19,46): warning C4244:             T=float
+E:\AluCiclesGS1\Assignaturas\Programacion\Practicas\MotorDeVideojocs\MotorDeVideojocs\Engine.cpp(19,46): warning C4244:         ]
+E:\AluCiclesGS1\Assignaturas\Programacion\Practicas\MotorDeVideojocs\MotorDeVideojocs\Engine.cpp(19,34): warning C4244: 'argumento': conversión de 'T' a 'unsigned int'; posible pérdida de datos
+E:\AluCiclesGS1\Assignaturas\Programacion\Practicas\MotorDeVideojocs\MotorDeVideojocs\Engine.cpp(19,34): warning C4244:         with
+E:\AluCiclesGS1\Assignaturas\Programacion\Practicas\MotorDeVideojocs\MotorDeVideojocs\Engine.cpp(19,34): warning C4244:         [
+E:\AluCiclesGS1\Assignaturas\Programacion\Practicas\MotorDeVideojocs\MotorDeVideojocs\Engine.cpp(19,34): warning C4244:             T=float
+E:\AluCiclesGS1\Assignaturas\Programacion\Practicas\MotorDeVideojocs\MotorDeVideojocs\Engine.cpp(19,34): warning C4244:         ]
+E:\AluCiclesGS1\Assignaturas\Programacion\Practicas\MotorDeVideojocs\MotorDeVideojocs\Engine.cpp(181,20): warning C4018: '<': no coinciden signed/unsigned
+E:\AluCiclesGS1\Assignaturas\Programacion\Practicas\MotorDeVideojocs\MotorDeVideojocs\Engine.cpp(203,20): warning C4018: '<': no coinciden signed/unsigned
+E:\AluCiclesGS1\Assignaturas\Programacion\Practicas\MotorDeVideojocs\MotorDeVideojocs\Engine.cpp(206,21): warning C4018: '<': no coinciden signed/unsigned
+  MotorDeVideojocs.vcxproj -> E:\AluCiclesGS1\Assignaturas\Programacion\Practicas\MotorDeVideojocs\Debug\MotorDeVideojocs.exe

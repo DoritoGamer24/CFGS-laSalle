@@ -1,0 +1,3 @@
+﻿  GuessNumber.cpp
+E:\AluCiclesGS1\Assignaturas\Programacion\Practicas\GuessNumber\GuessNumber\GuessNumber.cpp(10,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  GuessNumber.vcxproj -> E:\AluCiclesGS1\Assignaturas\Programacion\Practicas\GuessNumber\x64\Debug\GuessNumber.exe

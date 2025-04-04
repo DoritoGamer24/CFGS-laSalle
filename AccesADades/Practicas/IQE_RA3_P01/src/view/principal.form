@@ -1,0 +1,784 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.5" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace min="-2" pref="75" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" attributes="0">
+                      <Component id="idLable" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Component id="id" max="32767" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="copesLabel" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="oroLabel" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="gemesLabel" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="estrellesLabel" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="nomLabel" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="nivellLabel" alignment="0" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" alignment="0" attributes="0">
+                              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Component id="nivell" alignment="1" max="32767" attributes="0"/>
+                                  <Component id="copes" alignment="1" max="32767" attributes="0"/>
+                                  <Component id="oro" alignment="1" max="32767" attributes="0"/>
+                                  <Component id="gemes" alignment="1" max="32767" attributes="0"/>
+                                  <Component id="estrelles" alignment="1" max="32767" attributes="0"/>
+                              </Group>
+                          </Group>
+                          <Group type="102" alignment="0" attributes="0">
+                              <EmptySpace min="-2" pref="10" max="-2" attributes="0"/>
+                              <Component id="nom" max="32767" attributes="0"/>
+                          </Group>
+                      </Group>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace pref="23" max="-2" attributes="0"/>
+                      <Component id="esborrarJugador" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="-2" pref="26" max="-2" attributes="0"/>
+                      <Component id="crearJugador" min="-2" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" attributes="0">
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" alignment="1" attributes="0">
+                              <EmptySpace max="32767" attributes="0"/>
+                              <Component id="crearPartida" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace min="-2" pref="39" max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="102" attributes="0">
+                              <EmptySpace min="-2" pref="79" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Group type="102" alignment="0" attributes="0">
+                                      <Component id="idLable2" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                                      <Component id="idPart" max="32767" attributes="0"/>
+                                  </Group>
+                                  <Group type="102" alignment="0" attributes="0">
+                                      <Group type="103" groupAlignment="0" attributes="0">
+                                          <Component id="idjug1Label" alignment="0" min="-2" max="-2" attributes="0"/>
+                                          <Component id="idjug2Label" alignment="0" min="-2" max="-2" attributes="0"/>
+                                          <Component id="resultatLabel" alignment="0" min="-2" max="-2" attributes="0"/>
+                                          <Component id="tipusLabel" alignment="0" min="-2" max="-2" attributes="0"/>
+                                          <Component id="tempsLable" alignment="0" min="-2" max="-2" attributes="0"/>
+                                      </Group>
+                                      <EmptySpace min="-2" pref="10" max="-2" attributes="0"/>
+                                      <Group type="103" groupAlignment="0" attributes="0">
+                                          <Component id="resultat" alignment="1" pref="140" max="32767" attributes="0"/>
+                                          <Component id="idjug1" alignment="1" max="32767" attributes="0"/>
+                                          <Component id="idjug2" alignment="1" max="32767" attributes="0"/>
+                                          <Component id="temps" alignment="0" max="32767" attributes="0"/>
+                                          <Component id="tipus" alignment="0" max="32767" attributes="0"/>
+                                      </Group>
+                                  </Group>
+                              </Group>
+                          </Group>
+                      </Group>
+                      <EmptySpace min="-2" pref="75" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="1" attributes="0">
+                      <EmptySpace max="32767" attributes="0"/>
+                      <Component id="esborrarPartida" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace min="-2" pref="108" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+          </Group>
+          <Group type="102" alignment="1" attributes="0">
+              <EmptySpace max="32767" attributes="0"/>
+              <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                  <Component id="actualitzarTaulaJug" max="32767" attributes="0"/>
+                  <Component id="actualitzarTaulaPartides" max="32767" attributes="0"/>
+              </Group>
+              <EmptySpace min="193" pref="193" max="-2" attributes="0"/>
+          </Group>
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="jScrollPane2" pref="538" max="32767" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+          </Group>
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="jScrollPane3" pref="538" max="32767" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+          </Group>
+          <Group type="102" alignment="1" attributes="0">
+              <EmptySpace min="-2" pref="65" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="copasCLable" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="NomLable" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="NivellLable" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="idAdminLable" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="clanTypeLable" alignment="0" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="10" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="clanType" alignment="1" min="-2" pref="100" max="-2" attributes="0"/>
+                          <Component id="idAdmin" alignment="1" min="-2" pref="100" max="-2" attributes="0"/>
+                          <Component id="copasC" alignment="1" min="-2" pref="100" max="-2" attributes="0"/>
+                          <Component id="nomC" alignment="1" min="-2" pref="100" max="-2" attributes="0"/>
+                          <Component id="nivellC" alignment="1" min="-2" pref="100" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="-2" pref="50" max="-2" attributes="0"/>
+                      <Component id="crearClan" min="-2" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+              <EmptySpace max="32767" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="1" attributes="0">
+                      <Component id="idClanLable" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Component id="idClan" min="-2" pref="100" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="1" attributes="0">
+                      <Component id="esborrarClan" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace min="-2" pref="23" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+              <EmptySpace min="-2" pref="32" max="-2" attributes="0"/>
+          </Group>
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace min="-2" pref="47" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="-2" pref="152" max="-2" attributes="0"/>
+                      <Component id="actualitzarTaulaClans" min="-2" pref="150" max="-2" attributes="0"/>
+                  </Group>
+                  <Component id="jScrollPane5" alignment="0" min="-2" pref="460" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace min="-2" pref="24" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                  <Group type="102" attributes="0">
+                      <Component id="crearJugador" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="nom" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="nomLabel" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="nivell" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="nivellLabel" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="copes" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="copesLabel" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="oro" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="oroLabel" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="6" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="gemes" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="gemesLabel" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="estrelles" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="estrellesLabel" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Component id="esborrarJugador" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="idLable" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="id" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+                  <Group type="102" attributes="0">
+                      <Component id="crearPartida" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="idjug1" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="idjug1Label" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="idjug2" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="idjug2Label" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="resultat" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="resultatLabel" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="temps" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="tempsLable" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="tipus" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="tipusLabel" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace max="32767" attributes="0"/>
+                      <Component id="esborrarPartida" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="idLable2" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="idPart" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+              </Group>
+              <EmptySpace min="-2" pref="35" max="-2" attributes="0"/>
+              <Component id="actualitzarTaulaJug" min="-2" max="-2" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="jScrollPane3" min="-2" pref="173" max="-2" attributes="0"/>
+              <EmptySpace min="-2" pref="49" max="-2" attributes="0"/>
+              <Component id="actualitzarTaulaPartides" min="-2" max="-2" attributes="0"/>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Component id="jScrollPane2" min="-2" pref="210" max="-2" attributes="0"/>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Component id="crearClan" min="-2" max="-2" attributes="0"/>
+              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="nomC" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="NomLable" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="nivellC" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="NivellLable" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="copasC" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="copasCLable" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="idAdmin" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="idAdminLable" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="1" attributes="0">
+                      <Component id="esborrarClan" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="idClan" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="idClanLable" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="14" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="clanType" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="clanTypeLable" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Component id="actualitzarTaulaClans" min="-2" max="-2" attributes="0"/>
+              <EmptySpace min="-2" max="-2" attributes="0"/>
+              <Component id="jScrollPane5" min="-2" pref="142" max="-2" attributes="0"/>
+              <EmptySpace pref="85" max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JTextField" name="nom">
+      <Properties>
+        <Property name="toolTipText" type="java.lang.String" value="Nom"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="nomActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JTextField" name="nivell">
+      <Properties>
+        <Property name="toolTipText" type="java.lang.String" value="Nivell"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="nivellActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JTextField" name="copes">
+      <Properties>
+        <Property name="toolTipText" type="java.lang.String" value="Copes"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="oro">
+      <Properties>
+        <Property name="toolTipText" type="java.lang.String" value="Or"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="gemes">
+      <Properties>
+        <Property name="toolTipText" type="java.lang.String" value="Gemes"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="estrelles">
+      <Properties>
+        <Property name="toolTipText" type="java.lang.String" value="Estrelles"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="nomLabel">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Nom"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="nivellLabel">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Nivell"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="copesLabel">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Copes"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="oroLabel">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Or"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="gemesLabel">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Gemes"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="estrellesLabel">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Estrelles"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="crearJugador">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Crear Jugador"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="crearJugador"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="idjug1Label">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="idjug1"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="idjug2Label">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="idjug2"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="resultatLabel">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Resultat"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="tipusLabel">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Tipus"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="crearPartida">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Crear Partida"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="crearPartida"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JTextField" name="idjug1">
+      <Properties>
+        <Property name="toolTipText" type="java.lang.String" value="idjug1"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="idjug1ActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JTextField" name="idjug2">
+      <Properties>
+        <Property name="toolTipText" type="java.lang.String" value="idjug2"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="idjug2ActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JTextField" name="resultat">
+      <Properties>
+        <Property name="toolTipText" type="java.lang.String" value="Resultat (? - ?)"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="tipus">
+      <Properties>
+        <Property name="toolTipText" type="java.lang.String" value="Tipus (amistos, lliga o torneig)"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="esborrarJugador">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Esborrar Jugador"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="esborrarJugador"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="idLable">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="id"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="id">
+      <Properties>
+        <Property name="toolTipText" type="java.lang.String" value="id del jugador a esborrar"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="actualitzarTaulaJug">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Actualitzar taula Jugadors"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="actualitzarTaulaJug"/>
+      </Events>
+    </Component>
+    <Container class="javax.swing.JScrollPane" name="jScrollPane2">
+      <AuxValues>
+        <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+      </AuxValues>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+      <SubComponents>
+        <Component class="javax.swing.JTable" name="TaulaPartides">
+          <Properties>
+            <Property name="model" type="javax.swing.table.TableModel" editor="org.netbeans.modules.form.editors2.TableModelEditor">
+              <Table columnCount="6" rowCount="0">
+                <Column editable="false" title="id" type="java.lang.Integer"/>
+                <Column editable="false" title="idjug1" type="java.lang.Integer"/>
+                <Column editable="false" title="idjug2" type="java.lang.Integer"/>
+                <Column editable="false" title="resultat" type="java.lang.String"/>
+                <Column editable="false" title="temps" type="java.lang.String"/>
+                <Column editable="false" title="tipus" type="java.lang.String"/>
+              </Table>
+            </Property>
+            <Property name="columnModel" type="javax.swing.table.TableColumnModel" editor="org.netbeans.modules.form.editors2.TableColumnModelEditor">
+              <TableColumnModel selectionModel="0">
+                <Column maxWidth="-1" minWidth="-1" prefWidth="-1" resizable="true">
+                  <Title/>
+                  <Editor/>
+                  <Renderer/>
+                </Column>
+                <Column maxWidth="-1" minWidth="-1" prefWidth="-1" resizable="true">
+                  <Title/>
+                  <Editor/>
+                  <Renderer/>
+                </Column>
+                <Column maxWidth="-1" minWidth="-1" prefWidth="-1" resizable="true">
+                  <Title/>
+                  <Editor/>
+                  <Renderer/>
+                </Column>
+                <Column maxWidth="-1" minWidth="-1" prefWidth="-1" resizable="true">
+                  <Title/>
+                  <Editor/>
+                  <Renderer/>
+                </Column>
+                <Column maxWidth="-1" minWidth="-1" prefWidth="-1" resizable="true">
+                  <Title/>
+                  <Editor/>
+                  <Renderer/>
+                </Column>
+                <Column maxWidth="-1" minWidth="-1" prefWidth="-1" resizable="true">
+                  <Title/>
+                  <Editor/>
+                  <Renderer/>
+                </Column>
+              </TableColumnModel>
+            </Property>
+            <Property name="tableHeader" type="javax.swing.table.JTableHeader" editor="org.netbeans.modules.form.editors2.JTableHeaderEditor">
+              <TableHeader reorderingAllowed="true" resizingAllowed="true"/>
+            </Property>
+          </Properties>
+        </Component>
+      </SubComponents>
+    </Container>
+    <Component class="javax.swing.JButton" name="esborrarPartida">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Esborrar Partida"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="esborrarPartida"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="idLable2">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="id"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="idPart">
+      <Properties>
+        <Property name="toolTipText" type="java.lang.String" value="id del jugador a esborrar"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="actualitzarTaulaPartides">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Actualitzar taula Jugadors"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="actualitzarTaulaPartides"/>
+      </Events>
+    </Component>
+    <Container class="javax.swing.JScrollPane" name="jScrollPane3">
+      <AuxValues>
+        <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+      </AuxValues>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+      <SubComponents>
+        <Component class="javax.swing.JTable" name="TaulaJugadors">
+          <Properties>
+            <Property name="model" type="javax.swing.table.TableModel" editor="org.netbeans.modules.form.editors2.TableModelEditor">
+              <Table columnCount="7" rowCount="0">
+                <Column editable="false" title="id" type="java.lang.Integer"/>
+                <Column editable="false" title="nom" type="java.lang.String"/>
+                <Column editable="false" title="nivell" type="java.lang.Integer"/>
+                <Column editable="false" title="copes" type="java.lang.Integer"/>
+                <Column editable="false" title="oro" type="java.lang.Integer"/>
+                <Column editable="false" title="gemes" type="java.lang.Integer"/>
+                <Column editable="false" title="estrelles" type="java.lang.Integer"/>
+              </Table>
+            </Property>
+            <Property name="columnModel" type="javax.swing.table.TableColumnModel" editor="org.netbeans.modules.form.editors2.TableColumnModelEditor">
+              <TableColumnModel selectionModel="0">
+                <Column maxWidth="-1" minWidth="-1" prefWidth="-1" resizable="true">
+                  <Title/>
+                  <Editor/>
+                  <Renderer/>
+                </Column>
+                <Column maxWidth="-1" minWidth="-1" prefWidth="-1" resizable="true">
+                  <Title value="nom"/>
+                  <Editor/>
+                  <Renderer/>
+                </Column>
+                <Column maxWidth="-1" minWidth="-1" prefWidth="-1" resizable="true">
+                  <Title value="nivell"/>
+                  <Editor/>
+                  <Renderer/>
+                </Column>
+                <Column maxWidth="-1" minWidth="-1" prefWidth="-1" resizable="true">
+                  <Title value="copes"/>
+                  <Editor/>
+                  <Renderer/>
+                </Column>
+                <Column maxWidth="-1" minWidth="-1" prefWidth="-1" resizable="false">
+                  <Title value="oro"/>
+                  <Editor/>
+                  <Renderer/>
+                </Column>
+                <Column maxWidth="-1" minWidth="-1" prefWidth="-1" resizable="true">
+                  <Title value="gemes"/>
+                  <Editor/>
+                  <Renderer/>
+                </Column>
+                <Column maxWidth="-1" minWidth="-1" prefWidth="-1" resizable="true">
+                  <Title value="estrelles"/>
+                  <Editor/>
+                  <Renderer/>
+                </Column>
+              </TableColumnModel>
+            </Property>
+            <Property name="tableHeader" type="javax.swing.table.JTableHeader" editor="org.netbeans.modules.form.editors2.JTableHeaderEditor">
+              <TableHeader reorderingAllowed="true" resizingAllowed="true"/>
+            </Property>
+          </Properties>
+        </Component>
+      </SubComponents>
+    </Container>
+    <Component class="javax.swing.JLabel" name="tempsLable">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Temps"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="temps">
+      <Properties>
+        <Property name="toolTipText" type="java.lang.String" value="Temps (?:??  ---  MAX: 5:00)"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="clanType">
+      <Properties>
+        <Property name="toolTipText" type="java.lang.String" value="Tipus de Clan (Privat / Public)"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="idAdmin">
+      <Properties>
+        <Property name="toolTipText" type="java.lang.String" value="Id del administrador del Clan"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="crearClan">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Crear Clan"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="crearClan"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="esborrarClan">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Esborrar Clan"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="esborrarClan"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="NomLable">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Nom del Clan"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="idClan">
+      <Properties>
+        <Property name="toolTipText" type="java.lang.String" value="Id del Clan a eliminar"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="NivellLable">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Nivell"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="idClanLable">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="idClan"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="idAdminLable">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Id del Admin"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="clanTypeLable">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Tipus de Clan"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="copasC">
+      <Properties>
+        <Property name="toolTipText" type="java.lang.String" value="Quantitat de copes del Clan"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="nomC">
+      <Properties>
+        <Property name="toolTipText" type="java.lang.String" value="Nom del Clan que es vol crear"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="copasCLable">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Copes del Clan"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="nivellC">
+      <Properties>
+        <Property name="toolTipText" type="java.lang.String" value="Nivell que te el Clan"/>
+      </Properties>
+    </Component>
+    <Container class="javax.swing.JScrollPane" name="jScrollPane5">
+      <AuxValues>
+        <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+      </AuxValues>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+      <SubComponents>
+        <Component class="javax.swing.JTable" name="taulaClan">
+          <Properties>
+            <Property name="model" type="javax.swing.table.TableModel" editor="org.netbeans.modules.form.editors2.TableModelEditor">
+              <Table columnCount="6" rowCount="4">
+                <Column editable="false" title="idClan" type="java.lang.Integer"/>
+                <Column editable="false" title="nom" type="java.lang.String"/>
+                <Column editable="false" title="nivell" type="java.lang.Integer"/>
+                <Column editable="false" title="copas" type="java.lang.Integer"/>
+                <Column editable="false" title="idAdmin" type="java.lang.Integer"/>
+                <Column editable="false" title="tipusc" type="java.lang.String"/>
+              </Table>
+            </Property>
+            <Property name="columnModel" type="javax.swing.table.TableColumnModel" editor="org.netbeans.modules.form.editors2.TableColumnModelEditor">
+              <TableColumnModel selectionModel="0">
+                <Column maxWidth="-1" minWidth="-1" prefWidth="-1" resizable="true">
+                  <Title/>
+                  <Editor/>
+                  <Renderer/>
+                </Column>
+                <Column maxWidth="-1" minWidth="-1" prefWidth="-1" resizable="true">
+                  <Title/>
+                  <Editor/>
+                  <Renderer/>
+                </Column>
+                <Column maxWidth="-1" minWidth="-1" prefWidth="-1" resizable="true">
+                  <Title/>
+                  <Editor/>
+                  <Renderer/>
+                </Column>
+                <Column maxWidth="-1" minWidth="-1" prefWidth="-1" resizable="true">
+                  <Title/>
+                  <Editor/>
+                  <Renderer/>
+                </Column>
+                <Column maxWidth="-1" minWidth="-1" prefWidth="-1" resizable="true">
+                  <Title/>
+                  <Editor/>
+                  <Renderer/>
+                </Column>
+                <Column maxWidth="-1" minWidth="-1" prefWidth="-1" resizable="true">
+                  <Title/>
+                  <Editor/>
+                  <Renderer/>
+                </Column>
+              </TableColumnModel>
+            </Property>
+            <Property name="tableHeader" type="javax.swing.table.JTableHeader" editor="org.netbeans.modules.form.editors2.JTableHeaderEditor">
+              <TableHeader reorderingAllowed="true" resizingAllowed="true"/>
+            </Property>
+          </Properties>
+        </Component>
+      </SubComponents>
+    </Container>
+    <Component class="javax.swing.JButton" name="actualitzarTaulaClans">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Actualitzar Taula Clans"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="actualitzarTaulaClans"/>
+      </Events>
+    </Component>
+  </SubComponents>
+</Form>

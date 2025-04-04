@@ -1,0 +1,3 @@
+﻿  String_Tester.cpp
+E:\AluCiclesGS1\Assignaturas\Programacion\Practicas\String_Tester\String_Tester\String_Tester.cpp(22,13): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+  String_Tester.vcxproj -> E:\AluCiclesGS1\Assignaturas\Programacion\Practicas\String_Tester\x64\Debug\String_Tester.exe

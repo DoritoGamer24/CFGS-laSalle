@@ -1,10 +1,17 @@
 .vs/
 *.docx
 *.pdf
+*.drawio
 BaseDeDatos/
 Disseny3D2D/
 English/
 Entorns*/
+Llenguatges*/
 GameDesign/
 Sostenibilitat/
 Tutoria/
+/Programacion/Unity/
+/AccesADades/Practicas/IQE_RA2_P01/nbproject/private/
+/AccesADades/Practicas/IQE_RA2_P01/build/
+/AccesADades/Practicas/IQE_RA3_P01/nbproject/private/
+/AccesADades/Practicas/IQE_RA3_P01/build/
